@@ -1,5 +1,5 @@
 ======================
-NARCtool 1.0r with GUI
+NARCtool 0.3r with GUI
 ======================
 
 Credits to FrankieD for making the GUI and custom scripts.
